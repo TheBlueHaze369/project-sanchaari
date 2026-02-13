@@ -2,15 +2,16 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# Sanchaari 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: Sherlock & Watson
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: Arshia P - Government Engineering College, Thrissur
+- Member 2: Aryananda C M - Government Engineering College, Thrissur
+   
 
 ### Hosted Project Link
 [mention your project hosted link here]
