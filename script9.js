@@ -1,5 +1,5 @@
 // API base
-        const API_BASE = '/api';
+        const API_BASE = 'https://sanchaari-backend.onrender.com/api';
 
         // State
         let currentUser = '';
