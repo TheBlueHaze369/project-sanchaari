@@ -52,7 +52,7 @@ Notes
    
 
 ### Hosted Project Link
-[mention your project hosted link here]
+https://project-sanchaari.onrender.com/
 
 ### Project Description
 The all in one personalised travelmate everyone needs
