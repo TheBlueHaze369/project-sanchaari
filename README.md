@@ -1,3 +1,41 @@
+# Sanchaari Backend
+
+Express + SQLite backend for the Sanchaari frontend.
+
+Quick start
+
+1. Copy `.env.example` to `.env` and fill values (especially `JWT_SECRET`).
+2. Install dependencies:
+
+```bash
+npm install
+```
+
+3. Initialize database (creates `data/db.sqlite`):
+
+```bash
+npm run db:init
+```
+
+4. Start server:
+
+```bash
+npm run dev
+```
+
+API overview
+
+- `POST /api/auth/register` - register user
+- `POST /api/auth/login` - login, returns JWT
+- `POST /api/itineraries` - create/generate an itinerary (protected)
+- `GET /api/itineraries` - list user's itineraries (protected)
+- `GET /api/itineraries/:id` - get specific itinerary (protected)
+- `DELETE /api/itineraries/:id` - delete itinerary (protected)
+
+Notes
+
+- This uses SQLite (file at `data/db.sqlite`) for simplicity. For production multi-instance deployments use a central DB.
+- Ensure `JWT_SECRET` is a long random secret in production.
 <p align="center">
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
