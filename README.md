@@ -55,13 +55,13 @@ Notes
 [mention your project hosted link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+The all in one personalised travelmate everyone needs
 
 ### The Problem statement
-[What problem are you solving?]
+to avoid hallucinations and confusions while travelling especially during a solo trip
 
 ### The Solution
-[How are you solving it?]
+we created a website that assits the passenger in all aspects- to plan, to know the destinations and while travelling they could know the necessary spots available near them.
 
 ---
 
@@ -70,10 +70,10 @@ Notes
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
+- Languages used : javascript, html,css
 - Frameworks used: [e.g., React, Django, Spring Boot]
 - Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+- Tools used: vs code, git, gemini
 
 **For Hardware:**
 - Main components: [List main components]
@@ -85,8 +85,8 @@ Notes
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
+- Feature 1: personalised planning for trip
+- Feature 2: let us know necessary services available nearby.
 - Feature 3: [Description]
 - Feature 4: [Description]
 
